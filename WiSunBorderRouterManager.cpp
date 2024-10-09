@@ -1,6 +1,7 @@
 /**
  * @author Yann Charbon <yann.charbon@heig-vd.ch>
  * @copyright 2024
+ * @copyright 2018-2019, Pelion and affiliates.
 */
 
 #include "WiSunBorderRouterManager.h"
