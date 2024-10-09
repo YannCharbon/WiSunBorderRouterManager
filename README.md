@@ -1,0 +1,3 @@
+# C++ Wi-SUN border router implentation using Mbed OS APIs
+
+This implementation of a Wi-SUN border router is based on [https://github.com/PelionIoT/nanostack-border-router](https://github.com/PelionIoT/nanostack-border-router). It currently only supports Ethernet as a backhaul interface. The goal of having the border router wrapped in a C++ API is to use it in a more convenient way and also the extend its functionalities using advanced C++.
